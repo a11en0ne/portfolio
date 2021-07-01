@@ -1,4 +1,4 @@
-# Gatsby-Strapi Portfolio Starter
+# My Portfolio
 
 ## Setup Notes
 
