@@ -12,4 +12,4 @@ visit my portfolio here: https://allenwang-portfolio.netlify.app/
 5. React-icons
 6. Limit amount of components
 7. Use constants to avoid repetition
-8. Favicon in Static
+8. CV document in Static
