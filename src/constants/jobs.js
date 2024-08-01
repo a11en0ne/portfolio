@@ -2,14 +2,14 @@ const jobs = [
   {
     id: "recAGJfiU4CeaV0HL",
     order: 3,
-    title: "Learning Certificate IV in Web-Based Technologies",
-    dates: "February 2021 - Present",
+    title: "Digital Support Engineer",
+    dates: "Dec 2021 - Present",
     duties: [
-      "Mastered HTML Languages, JavaScript Scripting Language, CSS, Photoshop and other Web-based Skills",
-      "Self taught React Frameworks, Gatsby Frameworks, and good to use Strapi as open-source CMS",
-      "Mastered Web Designing, Web Development, Web Security technologies, and successfully build 5+ websites",
+      "Deliver consistent technology support for a range of mobile and web applications(8 mobile app, 1 web app)",
+      "Effectively manage production incidents, rapidly find root cause and provide solution",
+      "Implement minor enhancements to optimize app performance with my colleagues",
     ],
-    company: "TAFE",
+    company: "Transport for NSW",
   },
   {
     id: "recIL6mJNfWObonls",
